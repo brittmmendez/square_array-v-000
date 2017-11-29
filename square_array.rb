@@ -4,5 +4,4 @@ def square_array(array)
     square=number**2
     new_array<<(square)
   end
-  new_array
 end
